@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Social Sciences, Universidad Pablo de Olavide, 2029 (expected)
-* M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin, 2026 (expected
+* M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin, 2026 (expected)
 * M.S. in Vocational Training Teaching, Universidad Pablo de Olavide, 2025
-* * B.S. in Social Work, Universidad Pablo de Olavide, 2024
+*  B.S. in Social Work, Universidad Pablo de Olavide, 2024
 
 Work experience
 ======
@@ -33,33 +33,15 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% [BA Thesis](https://hdl.handle.net/10433/20879)%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  From 01-03-2025 until 28-05-2025, at [I.E.S Salvador Távora](https://www.iessalvadortavora.org/) as an intern teacher [here](https://sites.google.com/view/ra5tavora/hola) is the website I created to bridge the content from the classes to the students' houses.
+
