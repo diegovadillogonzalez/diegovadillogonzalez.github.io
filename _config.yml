@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Diego Vadillo González"
   pronouns         : "he/his"  
-  bio              : 
-  location         : 
+  bio              : "PhD Student in Social Sciences"
+  location         : "Universidad Pablo de Olavide"
   employer         : "student"
   uri              : # URL
   email            : "diegovadillo22.002@gmail.com" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-3977-8114"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Diego-Vadillo-Gonzalez?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
