@@ -1,4 +1,4 @@
-# Diego Vadillo González
+# ABOUT
 
 # Getting Started
 
