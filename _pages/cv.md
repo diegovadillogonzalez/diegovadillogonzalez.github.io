@@ -18,13 +18,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024 - January 2025: Social Worker
+  * [DownSevilla](https://www.downsevilla.org/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* September 2023 - June 2024: Leisure and Freetime Monitor
+  * DownSevilla
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
@@ -36,7 +34,7 @@ Work experience
 
 Publications
 ======
- [BA Thesis](https://hdl.handle.net/10433/20879)%}
+ [BA Thesis](https://hdl.handle.net/10433/20879)
   
   
 Teaching
