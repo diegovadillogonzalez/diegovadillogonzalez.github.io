@@ -36,9 +36,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% [BA Thesis](https://hdl.handle.net/10433/20879)%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ [BA Thesis](https://hdl.handle.net/10433/20879)%}
   
   
 Teaching
