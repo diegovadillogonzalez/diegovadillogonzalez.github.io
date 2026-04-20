@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Social Sciences, Universidad Pablo de Olavide, 2029 (expected)
+* M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin, 2026 (expected
+* M.S. in Vocational Training Teaching, Universidad Pablo de Olavide, 2025
+* * B.S. in Social Work, Universidad Pablo de Olavide, 2024
 
 Work experience
 ======
