@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi There!
 
-My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in seville, Spain. My PhD project is about 
 A data-driven personal website
 
 
-Getting started
+ABOUT
 ======
+Hi There!
+
+My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in seville, Spain. The research I am carrying out for the doctorate is in the intersection of social inequalities and educational systems. It (mainly) compares internationally how social inequalities are understood and confronted in three diferent countries' primary education system. The countries are Spain, Germany and France. It is conducted with the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/) from Universidad Pablo de Olavide.
+
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
