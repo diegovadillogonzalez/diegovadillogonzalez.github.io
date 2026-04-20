@@ -9,6 +9,7 @@ redirect_from:
 
 Hi There!
 
+My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in seville, Spain. My PhD project is about 
 A data-driven personal website
 
 
