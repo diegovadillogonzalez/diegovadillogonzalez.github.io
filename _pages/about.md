@@ -7,24 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-
-A data-driven personal website
-
-
 ABOUT
 ======
 Hi There!
 
-My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in seville, Spain. The research I am carrying out for the doctorate is in the intersection of social inequalities and educational systems. It (mainly) compares internationally how social inequalities are understood and confronted in three diferent countries' primary education system. The countries are Spain, Germany and France. It is conducted with the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/) from Universidad Pablo de Olavide.
+My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in seville, Spain. The research I am carrying out for the doctorate is in the intersection of social inequalities and educational systems. It (mainly) compares how social inequalities are understood and confronted internationally in primary education system. The countries where the research is carried out are Spain, Germany and France. It is conducted with the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/) from Universidad Pablo de Olavide.
 
+I conduct research with a mixed methods approach. As qualitative methods, I use scripted and half scripted interviews, fieldwork and non-participatory observation. As quantitative methods I use a multilungual survey (yet to be finished) that is offered in Spanish, German, French and English to educational professionals to answer and then, the data is handled in R, and I use quantitative textanalysis to get closer to each of the countries specific regulations in terms of education and attention to social inequalities.
 
+In the moment I am on a research visit at [Humboldt Universität zu Berlin](https://www.hu-berlin.de/en) (from 01/03/2026 - 31/08/2026) where I am also studying the [MA Research Training Program](https://www.sowi.hu-berlin.de/de/studium/studiengaenge/masterstudiengaenge/martp). While my research stay, I am gaining valuable insights into germany's case, developing and fostering research skills and tools as well as learning from other peers.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
