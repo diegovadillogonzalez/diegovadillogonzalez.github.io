@@ -44,5 +44,5 @@ Publications
   
 Teaching
 ======
-  From 01-02-2025 until 28-05-2025, at [I.E.S Salvador Távora](https://www.iessalvadortavora.org/) as an intern teacher [here](https://sites.google.com/view/ra5tavora/hola) is the website I created to bridge the content from the classes to the students' houses.
+  From 01-02-2025 until 28-05-2025, at [I.E.S Salvador Távora](https://www.iessalvadortavora.org/) as an intern teacher. [Here](https://sites.google.com/view/ra5tavora/hola) is a website I created to bridge the content from the classes to the students' houses.
 
