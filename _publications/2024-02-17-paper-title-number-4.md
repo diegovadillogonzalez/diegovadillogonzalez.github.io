@@ -1,7 +1,5 @@
 ---
-title: "Atención a las desigualdades sociales
-en los centros de Educación Secundaria:
-Análisis de la normativa en Andalucía"
+title: "Atención a las desigualdades sociales en los centros de Educación Secundaria: Análisis de la normativa en Andalucía"
 collection: publications
 category: conferences
 permalink: 
