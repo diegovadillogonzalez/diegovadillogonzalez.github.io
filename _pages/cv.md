@@ -14,10 +14,14 @@ Education
 * Ph.D in Social Sciences, Universidad Pablo de Olavide, 2029 (expected)
 * M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin, 2026 (expected)
 * M.S. in Vocational Training Teaching, Universidad Pablo de Olavide, 2025
+* Erasmus+ Semester B.S. in Social Work, Panteion University of Social and Political Sciences, 2022
 * B.S. in Social Work, Universidad Pablo de Olavide, 2024
 
 Work experience
 ======
+* March 2026 - current: External Researcher 
+ * [Grupo de Investigación en Acción Socioeducativa](https://www.upo.es/investiga/gias/sociedad/)
+   
 * October 2024 - June 2025: Student Assistant
   * [Department of Education and Social Psychology of Pablo de Olavide University](https://www.upo.es/educacion-psicologia-social/)
 
