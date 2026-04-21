@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Diego Vadillo González"
+title: "ABOUT"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-ABOUT
-======
 Hi There!
 
 My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in Seville, Spain. The research I am carrying out for the doctorate is in the intersection of social inequalities and educational systems. It (mainly) compares how social inequalities are understood and confronted internationally in primary education system. The countries where the research is carried out are Spain, Germany and France. It is conducted with the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/) from Universidad Pablo de Olavide.
