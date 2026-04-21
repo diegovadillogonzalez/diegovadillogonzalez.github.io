@@ -5,7 +5,7 @@ category: conferences
 permalink: 
 excerpt: "This paper is about analysing relevant high school normative and laws regarding social inequalities in Andalucía, Spain."
 date: 2025-11-26
-venue: "GitHub Journal of Bugs"
+venue: "XXXVI Congreso Internacional de la Sociedad Iberoamericana de Pedagogía Social"
 paperurl: "https://eventos.uma.es/getFiles/hash/MhN2Y5EjMzQGNmJDNwMjMyMjNxgDNyIzYITYjRWZ1YG:bXpVTjltbEwybjVXenE5azFmUmRFWEdYL1EyOUxBOTI1V0ZSNFB2amNkUXNONndtSmNIdThYalRYUnhqc1d2MUR2dGZ3UUZoNHlsajdaZnRIeWtrY0tmZ1dwTU1EL2YvMm9zL29EYjdzZ0R6VThFNXlOYm9jcUhJd3l4V0cyQU5YTURGYXFxRm1kNWswTnoxc1R5RVhQb05pamhBWDliUk96QTM0ZWIxQ0wwbmEzM1NwU2d3RExTdmY1U3llZUJVVHdiUS9vMUhxSTQ4VGVRWnQ1ZVNiSlBwSUVZN3JNVUVVdjNOMTQ5T21UTT0="
 citation: "Rebolledo-Gámez, T., & Vadillo-González, D. (2025, 26–28 de noviembre). Atención a las desigualdades sociales en los centros de educación secundaria: Análisis de la normativa en Andalucía. Ponencia presentada en el XXXVI Congreso Internacional de la Sociedad Iberoamericana de Pedagogía Social: Desigualdades y resistencias: Una pedagogía social para el bien común, Universidad de Málaga, Málaga, España."
 ---
