@@ -4,7 +4,7 @@ en los centros de Educación Secundaria:
 Análisis de la normativa en Andalucía"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: 
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-11-26
 venue: 'GitHub Journal of Bugs'
