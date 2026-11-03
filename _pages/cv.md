@@ -11,16 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Social Sciences, Universidad Pablo de Olavide, 2029 (expected)
-* M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin, 2026 (expected)
+* Ph.D in Social Sciences, Universidad Pablo de Olavide, (current)
+* M.S. in Research Training in Social Sciences, Humboldt Universität zu Berlin (current)
 * M.S. in Vocational Training Teaching, Universidad Pablo de Olavide, 2025
-* Erasmus+ Semester B.S. in Social Work, Panteion University of Social and Political Sciences, 2022
 * B.S. in Social Work, Universidad Pablo de Olavide, 2024
+
+Publications
+======
+ [BA Thesis open access](https://hdl.handle.net/10433/20879)
+  
+  
+Teaching
+======
+  From 01-02-2025 until 28-05-2025, at [I.E.S Salvador Távora](https://www.iessalvadortavora.org/) as an intern teacher. [Here](https://sites.google.com/view/ra5tavora/hola) is a website I created to bridge the content from the classes to the students' houses.
+
+Research visits
+======
+* Humboldt Universität zu Berlin(https://www.hu-berlin.de/en) (from 01/03/2026 - 31/08/2026) with [Dr.Prof. Florian Waldow](https://www.erziehungswissenschaften.hu-berlin.de/en/vew-en/mitarbeiter/florianwaldow)
 
 Work experience
 ======
 * March 2026 - current: External Researcher 
- * [Grupo de Investigación en Acción Socioeducativa](https://www.upo.es/investiga/gias/sociedad/)
+  * [Grupo de Investigación en Acción Socioeducativa](https://www.upo.es/investiga/gias/sociedad/)
    
 * October 2024 - June 2025: Student Assistant
   * [Department of Education and Social Psychology of Pablo de Olavide University](https://www.upo.es/educacion-psicologia-social/)
@@ -41,12 +53,4 @@ Work experience
 * March 2023 - May 2023: Internship as Social Worker
   * [Residencia Universitaria Flora Tristán](https://www.upo.es/floratristan/residencia/) together with DownSevilla and [Asociación Paz y Bien](https://pazbien.org/)
 
-Publications
-======
- [BA Thesis open access](https://hdl.handle.net/10433/20879)
-  
-  
-Teaching
-======
-  From 01-02-2025 until 28-05-2025, at [I.E.S Salvador Távora](https://www.iessalvadortavora.org/) as an intern teacher. [Here](https://sites.google.com/view/ra5tavora/hola) is a website I created to bridge the content from the classes to the students' houses.
 
