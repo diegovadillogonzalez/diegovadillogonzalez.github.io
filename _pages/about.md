@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi There!
+Hi there!
 
-My name is Diego Vadillo González. I am a PhD Student at Universidad Pablo de Olavide, in Seville, Spain. The research I am carrying out for the doctorate is in the intersection of social inequalities and educational systems. It (mainly) compares how social inequalities are understood and confronted internationally in primary education system. The countries where the research is carried out are Spain, Germany and France. It is conducted with the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/) from Universidad Pablo de Olavide.
+My name is Diego Vadillo González. I am a PhD Student in the program of Social Sciences at Universidad Pablo de Olavide, in Seville, Spain. The type of research I am interested in is in the intersection of social inequalities and educational systems. My doctor (mainly) compares how social inequalities are understood and confronted internationally in primary education systems. The countries where the research is carried out are Spain and Germany. It is conducted within the research group ["Grupo de Investigación en Acción Socioeducativa"](https://www.upo.es/investiga/gias/), from Universidad Pablo de Olavide.
 
-I conduct research with a mixed methods approach. As qualitative methods, I use scripted and half scripted interviews, fieldwork and non-participatory observation. As quantitative methods I use a multilungual survey (yet to be finished) that is offered in Spanish, German, French and English to educational professionals to answer. Following, the data is handled in R. Another research method I use is quantitative textanalysis, to extract information from relevant educational laws in each of the countries.
+The approach I use consists on a mixed methods one. As qualitative methods, I use scripted and half scripted interviews, fieldwork, non-participatory observation, round table and discourse analysis. As quantitative methods I use quantitative textanalysis using R.
 
-Currently, I am on a research visit at [Humboldt Universität zu Berlin](https://www.hu-berlin.de/en) (from 01/03/2026 - 31/08/2026) where I am also studying the [MA Research Training Program](https://www.sowi.hu-berlin.de/de/studium/studiengaenge/masterstudiengaenge/martp). While my research stay, I am gaining valuable insights into germany's case, developing and fostering research skills and tools as well as learning from other peers.
+Currently, I am on a  where I am also studying the [MA Research Training Program](https://www.sowi.hu-berlin.de/de/studium/studiengaenge/masterstudiengaenge/martp). While my research stay, I am gaining valuable insights into germany's case, developing and fostering research skills and tools as well as learning from other peers.
 
